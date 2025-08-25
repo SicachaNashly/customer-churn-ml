@@ -18,3 +18,12 @@ This repository contains a Jupyter Notebook that trains a baseline **churn** mod
    - confusion matrix plot in the notebook
 
 ## Structure (recommended)
+customer-churn-ml/
+├─ Project2_Churn_Notebook.ipynb
+├─ data/ # created/used by the notebook
+├─ models/ # model.pkl (after training)
+├─ reports/ # scored.csv (after scoring)
+└─ assets/ # optional screenshots for README
+
+## Tech
+Python, pandas, scikit-learn, joblib, matplotlib.
