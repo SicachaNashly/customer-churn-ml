@@ -1,0 +1,6 @@
+customer_id,gender,senior_citizen,tenure_months,contract_type,internet_service,payment_method,dependents,partner,tech_support,monthly_charges,total_charges,city,region,churn_score,churn_pred
+C00001,Female,1,19,One year,Fiber optic,Credit card,No,Yes,Yes,72.6,1375.23,Miami,US-East,0.2419,0
+C00002,Male,0,24,Month-to-month,Fiber optic,Credit card,Yes,Yes,No,63.46,1526.9,Orlando,US-South,0.5803,1
+C00003,Male,0,14,Month-to-month,Fiber optic,Electronic check,Yes,No,No,65.46,927.79,Orlando,US-South,0.6458,1
+C00004,Male,0,13,Month-to-month,DSL,Credit card,No,No,Yes,58.78,754.45,Phoenix,US-South,0.4778,0
+C00005,Female,0,26,Month-to-month,DSL,Bank transfer,No,Yes,No,50.77,1308.11,Orlando,US-North,0.5959,1
