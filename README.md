@@ -19,11 +19,16 @@ This repository contains a Jupyter Notebook that trains a baseline **churn** mod
 
 ## Structure (recommended)
 customer-churn-ml/
+
 ├─ Project2_Churn_Notebook.ipynb
+
 ├─ data/ # created/used by the notebook
+
 ├─ models/ # model.pkl (after training)
+
 ├─ reports/ # scored.csv (after scoring)
-└─ assets/ # optional screenshots for README
+
+└─ assets/
 
 ## Tech
 Python, pandas, scikit-learn, joblib, matplotlib.
